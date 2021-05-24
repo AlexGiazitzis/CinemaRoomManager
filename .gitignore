@@ -120,7 +120,6 @@ gen
 temp/
 
 # default output directories
-classes/
 deploy/
 javadoc/
 
